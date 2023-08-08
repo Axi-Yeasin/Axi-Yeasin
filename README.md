@@ -1,13 +1,15 @@
 ### Hi there, I'm Yeasin
 #### Web Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hello Everyone! I am Axisus. Now I study Diploma in CSE Engineering. I am a student and web developer.
+
+I like to learn new things. I am a fast self-learner. I have a great interest in coding.
 
 Skills: Django / Python / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development 
 
 
