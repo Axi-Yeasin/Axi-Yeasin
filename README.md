@@ -1,7 +1,7 @@
 ### Hi there, I'm Yeasin
 #### Web Developer
 
-Hello Everyone! I am Axisus. Now I study Diploma in CSE Engineering. I am a student and web developer.
+Hello Everyone! I am Axi-Yeasin. Now I study Diploma in CSE Engineering. I am a student and web developer.
 
 I like to learn new things. I am a fast self-learner. I have a great interest in coding.
 
