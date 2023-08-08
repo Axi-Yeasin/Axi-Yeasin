@@ -3,7 +3,7 @@
 
 Hello Everyone! I am Axi-Yeasin. Now I study Diploma in CSE Engineering. I am a student and web developer.
 
-I like to learn new things. I am a fast self-learner. I have a great interest in coding.
+I like to learn new things. I have a great interest in coding.
 
 Skills: Django / Python / JS / HTML / CSS
 
