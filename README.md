@@ -5,7 +5,7 @@ Hello Everyone! I am Axi-Yeasin. Now I study Diploma in CSE Engineering. I am a 
 
 I like to learn new things. I have a great interest in coding.
 
-Skills: Django / Python / JS / HTML / CSS
+Skills: Django / Python / JAVA / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java 
